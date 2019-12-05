@@ -1,0 +1,10 @@
+c:\users\adsi\documents\visual studio 2012\Projects\SuperJFvelasco\SuperJFvelasco\bin\Debug\SuperJFvelasco.exe.config
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\SuperJFvelasco\SuperJFvelasco\bin\Debug\SuperJFvelasco.exe
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\SuperJFvelasco\SuperJFvelasco\bin\Debug\SuperJFvelasco.pdb
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\SuperJFvelasco\SuperJFvelasco\bin\Debug\Mysql.data.dll
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\SuperJFvelasco\SuperJFvelasco\obj\Debug\SuperJFvelasco.csprojResolveAssemblyReference.cache
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\SuperJFvelasco\SuperJFvelasco\obj\Debug\SuperJFvelasco.Form1.resources
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\SuperJFvelasco\SuperJFvelasco\obj\Debug\SuperJFvelasco.Properties.Resources.resources
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\SuperJFvelasco\SuperJFvelasco\obj\Debug\SuperJFvelasco.csproj.GenerateResource.Cache
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\SuperJFvelasco\SuperJFvelasco\obj\Debug\SuperJFvelasco.exe
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\SuperJFvelasco\SuperJFvelasco\obj\Debug\SuperJFvelasco.pdb
